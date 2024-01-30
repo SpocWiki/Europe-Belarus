@@ -109,8 +109,8 @@ id: Belarus
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Belarus//
-markerFolder: ./Belarus//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Belarus] 
