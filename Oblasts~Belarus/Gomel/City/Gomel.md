@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::31] 
-[geo-lat::52.45] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::31] 
+[has_place_latitude::52.45] 
 [name::Gomel] 
 State ::  
 Country :: [[Russia]]  

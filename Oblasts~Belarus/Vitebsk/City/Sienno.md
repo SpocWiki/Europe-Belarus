@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::29.72] 
-[geo-lat::54.82] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::29.72] 
+[has_place_latitude::54.82] 
 [name::Sienno] 
 State ::  
 Country :: [[Romania]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::28.52] 
-[geo-lat::54.25] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::28.52] 
+[has_place_latitude::54.25] 
 [name::Borizow] 
 State ::  
 Country :: [[Russia]]  

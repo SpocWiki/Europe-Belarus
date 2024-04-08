@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::23.7] 
-[geo-lat::52.1] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::23.7] 
+[has_place_latitude::52.1] 
 [name::Brest] 
 State ::  
 Country :: [[Russia]]  

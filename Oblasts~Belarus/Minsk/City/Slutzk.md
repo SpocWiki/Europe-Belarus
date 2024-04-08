@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::27.55] 
-[geo-lat::53.03] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::27.55] 
+[has_place_latitude::53.03] 
 [name::Slutzk] 
 State ::  
 Country :: [[Russia]]  

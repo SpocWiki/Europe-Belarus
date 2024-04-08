@@ -129,8 +129,10 @@ Capital :: [[Minsk]]
 
 [Alcohol-l::15.1] 
 [Language-Id::469] 
-[geo-lon::27.57] 
-[geo-lat::53.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::27.57] 
+[has_place_latitude::53.9] 
 
 
 

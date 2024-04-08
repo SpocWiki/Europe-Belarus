@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::30.27] 
-[geo-lat::53.52] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::30.27] 
+[has_place_latitude::53.52] 
 [name::Staryi-Bykhof] 
 State ::  
 Country :: [[Russia]]  
