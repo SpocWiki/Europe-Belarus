@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lida.public](/_public/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Grodno\CityLida.public.md) 
+### [Lida](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Lida.md) 
 
-### [Lida.internal](/_internal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Grodno\CityLida.internal.md) 
+### [Lida.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Lida.public.md) 
 
-### [Lida.protect](/_protect/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Grodno\CityLida.protect.md) 
+### [Lida.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Lida.internal.md) 
 
-### [Lida.private](/_private/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Grodno\CityLida.private.md) 
+### [Lida.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Lida.protect.md) 
 
-### [Lida.personal](/_personal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Grodno\CityLida.personal.md) 
+### [Lida.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Lida.private.md) 
 
-### [Lida.secret](/_secret/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Grodno\CityLida.secret.md)
+### [Lida.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Lida.personal.md) 
+
+### [Lida.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Lida.secret.md)
 

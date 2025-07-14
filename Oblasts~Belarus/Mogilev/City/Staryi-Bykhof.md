@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Staryi-Bykhof.public](/_public/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Mogilev\CityStaryi-Bykhof.public.md) 
+### [Staryi-Bykhof](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Staryi-Bykhof.md) 
 
-### [Staryi-Bykhof.internal](/_internal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Mogilev\CityStaryi-Bykhof.internal.md) 
+### [Staryi-Bykhof.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Staryi-Bykhof.public.md) 
 
-### [Staryi-Bykhof.protect](/_protect/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Mogilev\CityStaryi-Bykhof.protect.md) 
+### [Staryi-Bykhof.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Staryi-Bykhof.internal.md) 
 
-### [Staryi-Bykhof.private](/_private/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Mogilev\CityStaryi-Bykhof.private.md) 
+### [Staryi-Bykhof.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Staryi-Bykhof.protect.md) 
 
-### [Staryi-Bykhof.personal](/_personal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Mogilev\CityStaryi-Bykhof.personal.md) 
+### [Staryi-Bykhof.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Staryi-Bykhof.private.md) 
 
-### [Staryi-Bykhof.secret](/_secret/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Mogilev\CityStaryi-Bykhof.secret.md)
+### [Staryi-Bykhof.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Staryi-Bykhof.personal.md) 
+
+### [Staryi-Bykhof.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Staryi-Bykhof.secret.md)
 

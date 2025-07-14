@@ -135,15 +135,17 @@ Capital :: [[Minsk]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~East\BelarusReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~East\BelarusReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~East\BelarusReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~East\BelarusReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~East\BelarusReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~East\BelarusReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/ReadMe.secret.md)
 

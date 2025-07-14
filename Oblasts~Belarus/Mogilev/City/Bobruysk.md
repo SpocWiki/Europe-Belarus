@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bobruysk.public](/_public/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Mogilev\CityBobruysk.public.md) 
+### [Bobruysk](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Bobruysk.md) 
 
-### [Bobruysk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Mogilev\CityBobruysk.internal.md) 
+### [Bobruysk.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Bobruysk.public.md) 
 
-### [Bobruysk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Mogilev\CityBobruysk.protect.md) 
+### [Bobruysk.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Bobruysk.internal.md) 
 
-### [Bobruysk.private](/_private/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Mogilev\CityBobruysk.private.md) 
+### [Bobruysk.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Bobruysk.protect.md) 
 
-### [Bobruysk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Mogilev\CityBobruysk.personal.md) 
+### [Bobruysk.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Bobruysk.private.md) 
 
-### [Bobruysk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Mogilev\CityBobruysk.secret.md)
+### [Bobruysk.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Bobruysk.personal.md) 
+
+### [Bobruysk.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Bobruysk.secret.md)
 

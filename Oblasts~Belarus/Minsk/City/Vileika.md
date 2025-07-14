@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vileika.public](/_public/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Minsk\CityVileika.public.md) 
+### [Vileika](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Vileika.md) 
 
-### [Vileika.internal](/_internal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Minsk\CityVileika.internal.md) 
+### [Vileika.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Vileika.public.md) 
 
-### [Vileika.protect](/_protect/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Minsk\CityVileika.protect.md) 
+### [Vileika.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Vileika.internal.md) 
 
-### [Vileika.private](/_private/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Minsk\CityVileika.private.md) 
+### [Vileika.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Vileika.protect.md) 
 
-### [Vileika.personal](/_personal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Minsk\CityVileika.personal.md) 
+### [Vileika.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Vileika.private.md) 
 
-### [Vileika.secret](/_secret/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Minsk\CityVileika.secret.md)
+### [Vileika.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Vileika.personal.md) 
+
+### [Vileika.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Vileika.secret.md)
 

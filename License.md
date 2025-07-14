@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~East\BelarusLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~East\BelarusLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~East\BelarusLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~East\BelarusLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~East\BelarusLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~East\BelarusLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/License.secret.md)
 

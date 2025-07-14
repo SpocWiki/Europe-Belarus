@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Slutzk.public](/_public/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Minsk\CitySlutzk.public.md) 
+### [Slutzk](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Slutzk.md) 
 
-### [Slutzk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Minsk\CitySlutzk.internal.md) 
+### [Slutzk.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Slutzk.public.md) 
 
-### [Slutzk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Minsk\CitySlutzk.protect.md) 
+### [Slutzk.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Slutzk.internal.md) 
 
-### [Slutzk.private](/_private/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Minsk\CitySlutzk.private.md) 
+### [Slutzk.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Slutzk.protect.md) 
 
-### [Slutzk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Minsk\CitySlutzk.personal.md) 
+### [Slutzk.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Slutzk.private.md) 
 
-### [Slutzk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Minsk\CitySlutzk.secret.md)
+### [Slutzk.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Slutzk.personal.md) 
+
+### [Slutzk.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Slutzk.secret.md)
 

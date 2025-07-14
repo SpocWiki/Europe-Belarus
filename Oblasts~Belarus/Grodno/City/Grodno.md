@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grodno.public](/_public/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Grodno\CityGrodno.public.md) 
+### [Grodno](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Grodno.md) 
 
-### [Grodno.internal](/_internal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Grodno\CityGrodno.internal.md) 
+### [Grodno.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Grodno.public.md) 
 
-### [Grodno.protect](/_protect/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Grodno\CityGrodno.protect.md) 
+### [Grodno.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Grodno.internal.md) 
 
-### [Grodno.private](/_private/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Grodno\CityGrodno.private.md) 
+### [Grodno.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Grodno.protect.md) 
 
-### [Grodno.personal](/_personal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Grodno\CityGrodno.personal.md) 
+### [Grodno.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Grodno.private.md) 
 
-### [Grodno.secret](/_secret/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Grodno\CityGrodno.secret.md)
+### [Grodno.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Grodno.personal.md) 
+
+### [Grodno.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Grodno.secret.md)
 

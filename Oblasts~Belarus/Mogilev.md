@@ -41,15 +41,17 @@ markerFolder: ./Mogilev/
 
 ## Confidential Links & Embeds: 
 
-### [Mogilev.public](/_public/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusMogilev.public.md) 
+### [Mogilev](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev.md) 
 
-### [Mogilev.internal](/_internal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusMogilev.internal.md) 
+### [Mogilev.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev.public.md) 
 
-### [Mogilev.protect](/_protect/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusMogilev.protect.md) 
+### [Mogilev.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev.internal.md) 
 
-### [Mogilev.private](/_private/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusMogilev.private.md) 
+### [Mogilev.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev.protect.md) 
 
-### [Mogilev.personal](/_personal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusMogilev.personal.md) 
+### [Mogilev.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev.private.md) 
 
-### [Mogilev.secret](/_secret/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusMogilev.secret.md)
+### [Mogilev.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev.personal.md) 
+
+### [Mogilev.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev.secret.md)
 

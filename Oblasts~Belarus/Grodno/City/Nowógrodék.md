@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nowógrodék.public](/_public/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Grodno\CityNowógrodék.public.md) 
+### [Nowógrodék](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Nowógrodék.md) 
 
-### [Nowógrodék.internal](/_internal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Grodno\CityNowógrodék.internal.md) 
+### [Nowógrodék.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Nowógrodék.public.md) 
 
-### [Nowógrodék.protect](/_protect/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Grodno\CityNowógrodék.protect.md) 
+### [Nowógrodék.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Nowógrodék.internal.md) 
 
-### [Nowógrodék.private](/_private/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Grodno\CityNowógrodék.private.md) 
+### [Nowógrodék.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Nowógrodék.protect.md) 
 
-### [Nowógrodék.personal](/_personal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Grodno\CityNowógrodék.personal.md) 
+### [Nowógrodék.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Nowógrodék.private.md) 
 
-### [Nowógrodék.secret](/_secret/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Grodno\CityNowógrodék.secret.md)
+### [Nowógrodék.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Nowógrodék.personal.md) 
+
+### [Nowógrodék.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Nowógrodék.secret.md)
 

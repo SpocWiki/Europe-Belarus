@@ -41,15 +41,17 @@ markerFolder: ./Vitebsk/
 
 ## Confidential Links & Embeds: 
 
-### [Vitebsk.public](/_public/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusVitebsk.public.md) 
+### [Vitebsk](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk.md) 
 
-### [Vitebsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusVitebsk.internal.md) 
+### [Vitebsk.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk.public.md) 
 
-### [Vitebsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusVitebsk.protect.md) 
+### [Vitebsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk.internal.md) 
 
-### [Vitebsk.private](/_private/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusVitebsk.private.md) 
+### [Vitebsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk.protect.md) 
 
-### [Vitebsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusVitebsk.personal.md) 
+### [Vitebsk.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk.private.md) 
 
-### [Vitebsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusVitebsk.secret.md)
+### [Vitebsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk.personal.md) 
+
+### [Vitebsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk.secret.md)
 

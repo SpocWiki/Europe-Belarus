@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mozyr.public](/_public/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Gomel\CityMozyr.public.md) 
+### [Mozyr](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Mozyr.md) 
 
-### [Mozyr.internal](/_internal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Gomel\CityMozyr.internal.md) 
+### [Mozyr.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Mozyr.public.md) 
 
-### [Mozyr.protect](/_protect/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Gomel\CityMozyr.protect.md) 
+### [Mozyr.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Mozyr.internal.md) 
 
-### [Mozyr.private](/_private/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Gomel\CityMozyr.private.md) 
+### [Mozyr.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Mozyr.protect.md) 
 
-### [Mozyr.personal](/_personal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Gomel\CityMozyr.personal.md) 
+### [Mozyr.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Mozyr.private.md) 
 
-### [Mozyr.secret](/_secret/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Gomel\CityMozyr.secret.md)
+### [Mozyr.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Mozyr.personal.md) 
+
+### [Mozyr.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Mozyr.secret.md)
 

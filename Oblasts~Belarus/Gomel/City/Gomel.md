@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gomel.public](/_public/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Gomel\CityGomel.public.md) 
+### [Gomel](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Gomel.md) 
 
-### [Gomel.internal](/_internal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Gomel\CityGomel.internal.md) 
+### [Gomel.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Gomel.public.md) 
 
-### [Gomel.protect](/_protect/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Gomel\CityGomel.protect.md) 
+### [Gomel.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Gomel.internal.md) 
 
-### [Gomel.private](/_private/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Gomel\CityGomel.private.md) 
+### [Gomel.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Gomel.protect.md) 
 
-### [Gomel.personal](/_personal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Gomel\CityGomel.personal.md) 
+### [Gomel.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Gomel.private.md) 
 
-### [Gomel.secret](/_secret/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Gomel\CityGomel.secret.md)
+### [Gomel.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Gomel.personal.md) 
+
+### [Gomel.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Gomel.secret.md)
 

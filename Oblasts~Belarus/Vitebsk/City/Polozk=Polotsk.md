@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Polozk=Polotsk.public](/_public/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Vitebsk\CityPolozk=Polotsk.public.md) 
+### [Polozk=Polotsk](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Polozk=Polotsk.md) 
 
-### [Polozk=Polotsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Vitebsk\CityPolozk=Polotsk.internal.md) 
+### [Polozk=Polotsk.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Polozk=Polotsk.public.md) 
 
-### [Polozk=Polotsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Vitebsk\CityPolozk=Polotsk.protect.md) 
+### [Polozk=Polotsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Polozk=Polotsk.internal.md) 
 
-### [Polozk=Polotsk.private](/_private/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Vitebsk\CityPolozk=Polotsk.private.md) 
+### [Polozk=Polotsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Polozk=Polotsk.protect.md) 
 
-### [Polozk=Polotsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Vitebsk\CityPolozk=Polotsk.personal.md) 
+### [Polozk=Polotsk.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Polozk=Polotsk.private.md) 
 
-### [Polozk=Polotsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Vitebsk\CityPolozk=Polotsk.secret.md)
+### [Polozk=Polotsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Polozk=Polotsk.personal.md) 
+
+### [Polozk=Polotsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Polozk=Polotsk.secret.md)
 

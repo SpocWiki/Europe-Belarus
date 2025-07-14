@@ -41,15 +41,17 @@ markerFolder: ./Grodno/
 
 ## Confidential Links & Embeds: 
 
-### [Grodno.public](/_public/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusGrodno.public.md) 
+### [Grodno](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno.md) 
 
-### [Grodno.internal](/_internal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusGrodno.internal.md) 
+### [Grodno.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno.public.md) 
 
-### [Grodno.protect](/_protect/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusGrodno.protect.md) 
+### [Grodno.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno.internal.md) 
 
-### [Grodno.private](/_private/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusGrodno.private.md) 
+### [Grodno.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno.protect.md) 
 
-### [Grodno.personal](/_personal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusGrodno.personal.md) 
+### [Grodno.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno.private.md) 
 
-### [Grodno.secret](/_secret/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusGrodno.secret.md)
+### [Grodno.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno.personal.md) 
+
+### [Grodno.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno.secret.md)
 

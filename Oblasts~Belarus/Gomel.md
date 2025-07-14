@@ -41,15 +41,17 @@ markerFolder: ./Gomel/
 
 ## Confidential Links & Embeds: 
 
-### [Gomel.public](/_public/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusGomel.public.md) 
+### [Gomel](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel.md) 
 
-### [Gomel.internal](/_internal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusGomel.internal.md) 
+### [Gomel.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel.public.md) 
 
-### [Gomel.protect](/_protect/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusGomel.protect.md) 
+### [Gomel.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel.internal.md) 
 
-### [Gomel.private](/_private/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusGomel.private.md) 
+### [Gomel.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel.protect.md) 
 
-### [Gomel.personal](/_personal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusGomel.personal.md) 
+### [Gomel.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel.private.md) 
 
-### [Gomel.secret](/_secret/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusGomel.secret.md)
+### [Gomel.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel.personal.md) 
+
+### [Gomel.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel.secret.md)
 
