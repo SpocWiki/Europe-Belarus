@@ -133,12 +133,17 @@ Capital :: [[Minsk]]
 [has_place_latitude::53.9] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~East/Belarus|Belarus]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~East/Belarus.public|Belarus.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~East/Belarus.internal|Belarus.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~East/Belarus.protect|Belarus.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~East/Belarus.private|Belarus.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~East/Belarus.personal|Belarus.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~East/Belarus.secret|Belarus.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~East\BelarusReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~East\BelarusReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~East\BelarusReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~East\BelarusReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~East\BelarusReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~East\BelarusReadMe.secret.md)
+

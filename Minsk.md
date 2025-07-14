@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Europe~East/Belarus/Minsk|Minsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Europe~East/Belarus/Minsk.public|Minsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Europe~East/Belarus/Minsk.internal|Minsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Europe~East/Belarus/Minsk.protect|Minsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Europe~East/Belarus/Minsk.private|Minsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Europe~East/Belarus/Minsk.personal|Minsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Europe~East/Belarus/Minsk.secret|Minsk.secret]] 
+
+### [Minsk.public](/_public/\Earth\Continent\Europe\Europe~East\BelarusMinsk.public.md) 
+
+### [Minsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\BelarusMinsk.internal.md) 
+
+### [Minsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\BelarusMinsk.protect.md) 
+
+### [Minsk.private](/_private/\Earth\Continent\Europe\Europe~East\BelarusMinsk.private.md) 
+
+### [Minsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\BelarusMinsk.personal.md) 
+
+### [Minsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\BelarusMinsk.secret.md)
+

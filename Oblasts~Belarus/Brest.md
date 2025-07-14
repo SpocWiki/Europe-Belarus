@@ -40,11 +40,16 @@ markerFolder: ./Brest/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Belarus/Counties/Brest|Brest]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Belarus/Counties/Brest.public|Brest.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Belarus/Counties/Brest.internal|Brest.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Belarus/Counties/Brest.protect|Brest.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Belarus/Counties/Brest.private|Brest.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Belarus/Counties/Brest.personal|Brest.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Belarus/Counties/Brest.secret|Brest.secret]] 
+
+### [Brest.public](/_public/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusBrest.public.md) 
+
+### [Brest.internal](/_internal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusBrest.internal.md) 
+
+### [Brest.protect](/_protect/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusBrest.protect.md) 
+
+### [Brest.private](/_private/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusBrest.private.md) 
+
+### [Brest.personal](/_personal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusBrest.personal.md) 
+
+### [Brest.secret](/_secret/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~BelarusBrest.secret.md)
 

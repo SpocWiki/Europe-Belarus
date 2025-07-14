@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Pinsk|Pinsk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Pinsk.public|Pinsk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Pinsk.internal|Pinsk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Pinsk.protect|Pinsk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Pinsk.private|Pinsk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Pinsk.personal|Pinsk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Pinsk.secret|Pinsk.secret]] 
+
+### [Pinsk.public](/_public/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Brest\CityPinsk.public.md) 
+
+### [Pinsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Brest\CityPinsk.internal.md) 
+
+### [Pinsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Brest\CityPinsk.protect.md) 
+
+### [Pinsk.private](/_private/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Brest\CityPinsk.private.md) 
+
+### [Pinsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Brest\CityPinsk.personal.md) 
+
+### [Pinsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Brest\CityPinsk.secret.md)
+

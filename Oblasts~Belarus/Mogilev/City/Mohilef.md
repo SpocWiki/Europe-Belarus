@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Mohilef|Mohilef]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Mohilef.public|Mohilef.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Mohilef.internal|Mohilef.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Mohilef.protect|Mohilef.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Mohilef.private|Mohilef.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Mohilef.personal|Mohilef.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Mohilef.secret|Mohilef.secret]] 
+
+### [Mohilef.public](/_public/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Mogilev\CityMohilef.public.md) 
+
+### [Mohilef.internal](/_internal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Mogilev\CityMohilef.internal.md) 
+
+### [Mohilef.protect](/_protect/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Mogilev\CityMohilef.protect.md) 
+
+### [Mohilef.private](/_private/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Mogilev\CityMohilef.private.md) 
+
+### [Mohilef.personal](/_personal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Mogilev\CityMohilef.personal.md) 
+
+### [Mohilef.secret](/_secret/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Mogilev\CityMohilef.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Slutzk|Slutzk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Slutzk.public|Slutzk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Slutzk.internal|Slutzk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Slutzk.protect|Slutzk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Slutzk.private|Slutzk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Slutzk.personal|Slutzk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Slutzk.secret|Slutzk.secret]] 
+
+### [Slutzk.public](/_public/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Minsk\CitySlutzk.public.md) 
+
+### [Slutzk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Minsk\CitySlutzk.internal.md) 
+
+### [Slutzk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Minsk\CitySlutzk.protect.md) 
+
+### [Slutzk.private](/_private/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Minsk\CitySlutzk.private.md) 
+
+### [Slutzk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Minsk\CitySlutzk.personal.md) 
+
+### [Slutzk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Minsk\CitySlutzk.secret.md)
+

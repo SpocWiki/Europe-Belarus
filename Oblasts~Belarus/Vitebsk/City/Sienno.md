@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/City/Sienno|Sienno]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/City/Sienno.public|Sienno.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/City/Sienno.internal|Sienno.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/City/Sienno.protect|Sienno.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/City/Sienno.private|Sienno.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/City/Sienno.personal|Sienno.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/City/Sienno.secret|Sienno.secret]] 
+
+### [Sienno.public](/_public/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Vitebsk\CitySienno.public.md) 
+
+### [Sienno.internal](/_internal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Vitebsk\CitySienno.internal.md) 
+
+### [Sienno.protect](/_protect/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Vitebsk\CitySienno.protect.md) 
+
+### [Sienno.private](/_private/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Vitebsk\CitySienno.private.md) 
+
+### [Sienno.personal](/_personal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Vitebsk\CitySienno.personal.md) 
+
+### [Sienno.secret](/_secret/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Vitebsk\CitySienno.secret.md)
+

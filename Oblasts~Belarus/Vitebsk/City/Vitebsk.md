@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Vitebsk|Vitebsk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Vitebsk.public|Vitebsk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Vitebsk.internal|Vitebsk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Vitebsk.protect|Vitebsk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Vitebsk.private|Vitebsk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Vitebsk.personal|Vitebsk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Vitebsk.secret|Vitebsk.secret]] 
+
+### [Vitebsk.public](/_public/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Vitebsk\CityVitebsk.public.md) 
+
+### [Vitebsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Vitebsk\CityVitebsk.internal.md) 
+
+### [Vitebsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Vitebsk\CityVitebsk.protect.md) 
+
+### [Vitebsk.private](/_private/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Vitebsk\CityVitebsk.private.md) 
+
+### [Vitebsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Vitebsk\CityVitebsk.personal.md) 
+
+### [Vitebsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Vitebsk\CityVitebsk.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Borizow|Borizow]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Borizow.public|Borizow.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Borizow.internal|Borizow.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Borizow.protect|Borizow.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Borizow.private|Borizow.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Borizow.personal|Borizow.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Borizow.secret|Borizow.secret]] 
+
+### [Borizow.public](/_public/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Minsk\CityBorizow.public.md) 
+
+### [Borizow.internal](/_internal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Minsk\CityBorizow.internal.md) 
+
+### [Borizow.protect](/_protect/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Minsk\CityBorizow.protect.md) 
+
+### [Borizow.private](/_private/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Minsk\CityBorizow.private.md) 
+
+### [Borizow.personal](/_personal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Minsk\CityBorizow.personal.md) 
+
+### [Borizow.secret](/_secret/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Minsk\CityBorizow.secret.md)
+

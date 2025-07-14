@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Mozyr|Mozyr]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Mozyr.public|Mozyr.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Mozyr.internal|Mozyr.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Mozyr.protect|Mozyr.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Mozyr.private|Mozyr.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Mozyr.personal|Mozyr.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Mozyr.secret|Mozyr.secret]] 
+
+### [Mozyr.public](/_public/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Gomel\CityMozyr.public.md) 
+
+### [Mozyr.internal](/_internal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Gomel\CityMozyr.internal.md) 
+
+### [Mozyr.protect](/_protect/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Gomel\CityMozyr.protect.md) 
+
+### [Mozyr.private](/_private/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Gomel\CityMozyr.private.md) 
+
+### [Mozyr.personal](/_personal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Gomel\CityMozyr.personal.md) 
+
+### [Mozyr.secret](/_secret/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Gomel\CityMozyr.secret.md)
+

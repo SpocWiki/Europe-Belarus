@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Brzesc=Brest-Litowsk|Brzesc=Brest-Litowsk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Brzesc=Brest-Litowsk.public|Brzesc=Brest-Litowsk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Brzesc=Brest-Litowsk.internal|Brzesc=Brest-Litowsk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Brzesc=Brest-Litowsk.protect|Brzesc=Brest-Litowsk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Brzesc=Brest-Litowsk.private|Brzesc=Brest-Litowsk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Brzesc=Brest-Litowsk.personal|Brzesc=Brest-Litowsk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Brzesc=Brest-Litowsk.secret|Brzesc=Brest-Litowsk.secret]] 
+
+### [Brzesc=Brest-Litowsk.public](/_public/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Brest\CityBrzesc=Brest-Litowsk.public.md) 
+
+### [Brzesc=Brest-Litowsk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Brest\CityBrzesc=Brest-Litowsk.internal.md) 
+
+### [Brzesc=Brest-Litowsk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Brest\CityBrzesc=Brest-Litowsk.protect.md) 
+
+### [Brzesc=Brest-Litowsk.private](/_private/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Brest\CityBrzesc=Brest-Litowsk.private.md) 
+
+### [Brzesc=Brest-Litowsk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Brest\CityBrzesc=Brest-Litowsk.personal.md) 
+
+### [Brzesc=Brest-Litowsk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Brest\CityBrzesc=Brest-Litowsk.secret.md)
+

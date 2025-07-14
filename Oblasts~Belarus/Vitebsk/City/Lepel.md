@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Lepel|Lepel]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Lepel.public|Lepel.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Lepel.internal|Lepel.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Lepel.protect|Lepel.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Lepel.private|Lepel.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Lepel.personal|Lepel.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Lepel.secret|Lepel.secret]] 
+
+### [Lepel.public](/_public/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Vitebsk\CityLepel.public.md) 
+
+### [Lepel.internal](/_internal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Vitebsk\CityLepel.internal.md) 
+
+### [Lepel.protect](/_protect/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Vitebsk\CityLepel.protect.md) 
+
+### [Lepel.private](/_private/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Vitebsk\CityLepel.private.md) 
+
+### [Lepel.personal](/_personal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Vitebsk\CityLepel.personal.md) 
+
+### [Lepel.secret](/_secret/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Vitebsk\CityLepel.secret.md)
+

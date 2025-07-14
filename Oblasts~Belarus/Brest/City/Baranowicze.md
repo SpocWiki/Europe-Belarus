@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Poland/City/Baranowicze|Baranowicze]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Poland/City/Baranowicze.public|Baranowicze.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Poland/City/Baranowicze.internal|Baranowicze.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Poland/City/Baranowicze.protect|Baranowicze.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Poland/City/Baranowicze.private|Baranowicze.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Poland/City/Baranowicze.personal|Baranowicze.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Poland/City/Baranowicze.secret|Baranowicze.secret]] 
+
+### [Baranowicze.public](/_public/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Brest\CityBaranowicze.public.md) 
+
+### [Baranowicze.internal](/_internal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Brest\CityBaranowicze.internal.md) 
+
+### [Baranowicze.protect](/_protect/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Brest\CityBaranowicze.protect.md) 
+
+### [Baranowicze.private](/_private/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Brest\CityBaranowicze.private.md) 
+
+### [Baranowicze.personal](/_personal/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Brest\CityBaranowicze.personal.md) 
+
+### [Baranowicze.secret](/_secret/\Earth\Continent\Europe\Europe~East\Belarus\Oblasts~Belarus\Brest\CityBaranowicze.secret.md)
+
