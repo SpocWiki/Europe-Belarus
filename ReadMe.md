@@ -1,37 +1,38 @@
 ---
 location:
-- 53.9
-- 27.57
+  - 53.9
+  - 27.57
 type: Country
 SpocWebEntityId: 26858
 isDeleted: false
 confidential: public
 tags:
-- geo/Country
+  - geo/Country
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Belarus
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Belarus
-- Belarús
-- Bélarus
-- بيلاروس
-- 白俄罗斯
-- Беларусь
-- the Republic of Belarus
-- la República de Belarús
+  - Belarus
+  - Belarús
+  - Bélarus
+  - بيلاروس
+  - 白俄罗斯
+  - Беларусь
+  - the Republic of Belarus
+  - la República de Belarús
 Languages:
-- be
-- ru
+  - be
+  - ru
 ---
 
 
