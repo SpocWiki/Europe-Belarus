@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: City_of_Minsk
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./City_of_Minsk/
 markerFolder: ./City_of_Minsk/
