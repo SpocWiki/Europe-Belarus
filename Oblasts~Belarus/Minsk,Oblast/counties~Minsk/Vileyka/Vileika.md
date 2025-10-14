@@ -24,7 +24,7 @@ State ::
 Country :: [[Poland]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 ## #has_/map 
 

@@ -24,7 +24,7 @@ State ::
 Country :: [[Belarus]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 ## #has_/map  
 
