@@ -1,16 +1,19 @@
 ---
-location: [52.1,23.68] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Brest-Litowsk
+location:
+  - 52.1
+  - 23.68
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29342
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

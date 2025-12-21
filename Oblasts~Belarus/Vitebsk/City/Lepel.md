@@ -1,16 +1,19 @@
 ---
-location: [54.87,28.68] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Lepel
+location:
+  - 54.87
+  - 28.68
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31950
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

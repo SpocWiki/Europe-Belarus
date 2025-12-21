@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Belarus
+  - Belarús
+  - Bélarus
+  - بيلاروس
+  - 白俄罗斯
+  - Беларусь
+  - the Republic of Belarus
+  - la República de Belarús
+  - ReadMe
 location:
   - 53.9
   - 27.57
@@ -15,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Belarus
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Belarus
-  - Belarús
-  - Bélarus
-  - بيلاروس
-  - 白俄罗斯
-  - Беларусь
-  - the Republic of Belarus
-  - la República de Belarús
+publishDate: ''
+expiryDate: ''
 Languages:
   - be
   - ru

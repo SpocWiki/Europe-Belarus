@@ -1,16 +1,19 @@
 ---
-location: [53.03,27.55] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Slutzk
+location:
+  - 53.03
+  - 27.55
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34328
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Slutzk]] 

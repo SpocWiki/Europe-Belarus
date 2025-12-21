@@ -1,16 +1,19 @@
 ---
-location: [54.25,28.52] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Borizow
+location:
+  - 54.25
+  - 28.52
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29281
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Borizow]] 

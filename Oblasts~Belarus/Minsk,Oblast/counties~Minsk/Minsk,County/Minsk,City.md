@@ -1,4 +1,7 @@
 ---
+aliases:
+  - City_of_Minsk
+  - Minsk,City
 has_id_wikidata: Q2280
 location:
   - 53.9
@@ -13,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - City_of_Minsk
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Minsk,City]]

@@ -1,16 +1,19 @@
 ---
-location: [52.05,29.27] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Mozyr
+location:
+  - 52.05
+  - 29.27
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32616
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 
