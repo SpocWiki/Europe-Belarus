@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.27
 dv_has_place_latitude: 53.88
-dv_name: Lida
+dv_has_name_: Lida
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

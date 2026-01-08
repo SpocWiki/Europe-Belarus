@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 31
 dv_has_place_latitude: 52.45
-dv_name: Gomel
+dv_has_name_: Gomel
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

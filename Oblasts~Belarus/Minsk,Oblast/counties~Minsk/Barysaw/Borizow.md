@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 28.52
 dv_has_place_latitude: 54.25
-dv_name: Borizow
+dv_has_name_: Borizow
 dv_Country: "[[../../../../../Russia]]"
 ---
 

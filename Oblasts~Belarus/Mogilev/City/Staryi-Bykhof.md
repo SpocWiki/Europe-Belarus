@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 30.27
 dv_has_place_latitude: 53.52
-dv_name: Staryi-Bykhof
+dv_has_name_: Staryi-Bykhof
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

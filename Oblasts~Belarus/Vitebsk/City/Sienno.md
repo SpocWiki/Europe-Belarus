@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 29.72
 dv_has_place_latitude: 54.82
-dv_name: Sienno
+dv_has_name_: Sienno
 dv_Country: "[[../../../../Romania]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 29.23
 dv_has_place_latitude: 53.15
-dv_name: Bobruysk
+dv_has_name_: Bobruysk
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

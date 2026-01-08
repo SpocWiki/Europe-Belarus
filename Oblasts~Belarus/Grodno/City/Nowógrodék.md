@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.85
 dv_has_place_latitude: 53.58
-dv_name: Nowógrodék
+dv_has_name_: Nowógrodék
 dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  

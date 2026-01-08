@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 28.75
 dv_has_place_latitude: 55.48
-dv_name: Polozk=Polotsk
+dv_has_name_: Polozk=Polotsk
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

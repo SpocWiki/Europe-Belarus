@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 27.55
 dv_has_place_latitude: 53.03
-dv_name: Slutzk
+dv_has_name_: Slutzk
 dv_Country: "[[../../../../../Russia]]"
 ---
 

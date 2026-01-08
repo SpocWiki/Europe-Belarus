@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 28.68
 dv_has_place_latitude: 54.87
-dv_name: Lepel
+dv_has_name_: Lepel
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

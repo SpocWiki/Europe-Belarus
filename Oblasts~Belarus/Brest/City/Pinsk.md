@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.12
 dv_has_place_latitude: 52.15
-dv_name: Pinsk
+dv_has_name_: Pinsk
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

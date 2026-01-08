@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.68
 dv_has_place_latitude: 52.1
-dv_name: Brzesc=Brest-Litowsk
+dv_has_name_: Brzesc=Brest-Litowsk
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
