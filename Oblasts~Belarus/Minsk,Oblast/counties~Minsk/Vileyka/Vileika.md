@@ -14,17 +14,22 @@ tags:
 SpocWebEntityId: 35291
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 26.97
+dv_has_place_latitude: 54.5
+dv_name: Vileika
+dv_Country: "[[../../../../../Poland]]"
 ---
 
 # [[Vileika]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::26.97] 
-[has_place_latitude::54.5] 
-[name::Vileika] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -42,17 +47,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vileika](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Vileika.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Vileyka/Vileika|Vileika]] 
 
-### [Vileika.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Vileika.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Vileyka/Vileika.public|Vileika.public]] 
 
-### [Vileika.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Vileika.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Vileyka/Vileika.internal|Vileika.internal]] 
 
-### [Vileika.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Vileika.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Vileyka/Vileika.protect|Vileika.protect]] 
 
-### [Vileika.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Vileika.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Vileyka/Vileika.private|Vileika.private]] 
 
-### [Vileika.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Vileika.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Vileyka/Vileika.personal|Vileika.personal]] 
 
-### [Vileika.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Vileika.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Vileyka/Vileika.secret|Vileika.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34255
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 29.72
+dv_has_place_latitude: 54.82
+dv_name: Sienno
+dv_Country: "[[../../../../Romania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::29.72] 
-[has_place_latitude::54.82] 
-[name::Sienno] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Romania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sienno](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Sienno.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Sienno|Sienno]] 
 
-### [Sienno.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Sienno.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Sienno.public|Sienno.public]] 
 
-### [Sienno.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Sienno.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Sienno.internal|Sienno.internal]] 
 
-### [Sienno.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Sienno.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Sienno.protect|Sienno.protect]] 
 
-### [Sienno.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Sienno.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Sienno.private|Sienno.private]] 
 
-### [Sienno.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Sienno.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Sienno.personal|Sienno.personal]] 
 
-### [Sienno.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Sienno.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Sienno.secret|Sienno.secret]] 
 

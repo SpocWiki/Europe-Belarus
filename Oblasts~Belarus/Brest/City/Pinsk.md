@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33377
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 26.12
+dv_has_place_latitude: 52.15
+dv_name: Pinsk
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::26.12] 
-[has_place_latitude::52.15] 
-[name::Pinsk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pinsk](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Pinsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Pinsk|Pinsk]] 
 
-### [Pinsk.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Pinsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Pinsk.public|Pinsk.public]] 
 
-### [Pinsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Pinsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Pinsk.internal|Pinsk.internal]] 
 
-### [Pinsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Pinsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Pinsk.protect|Pinsk.protect]] 
 
-### [Pinsk.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Pinsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Pinsk.private|Pinsk.private]] 
 
-### [Pinsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Pinsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Pinsk.personal|Pinsk.personal]] 
 
-### [Pinsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Pinsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Pinsk.secret|Pinsk.secret]] 
 

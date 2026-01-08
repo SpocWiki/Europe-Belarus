@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32983
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.85
+dv_has_place_latitude: 53.58
+dv_name: Nowógrodék
+dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.85] 
-[has_place_latitude::53.58] 
-[name::Nowógrodék] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nowógrodék](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Nowógrodék.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Nowógrodék|Nowógrodék]] 
 
-### [Nowógrodék.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Nowógrodék.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Nowógrodék.public|Nowógrodék.public]] 
 
-### [Nowógrodék.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Nowógrodék.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Nowógrodék.internal|Nowógrodék.internal]] 
 
-### [Nowógrodék.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Nowógrodék.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Nowógrodék.protect|Nowógrodék.protect]] 
 
-### [Nowógrodék.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Nowógrodék.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Nowógrodék.private|Nowógrodék.private]] 
 
-### [Nowógrodék.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Nowógrodék.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Nowógrodék.personal|Nowógrodék.personal]] 
 
-### [Nowógrodék.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Nowógrodék.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Nowógrodék.secret|Nowógrodék.secret]] 
 

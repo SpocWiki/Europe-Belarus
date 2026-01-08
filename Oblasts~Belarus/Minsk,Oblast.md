@@ -53,17 +53,17 @@ defaultZoom: 11
 
 ## Confidential Links & Embeds: 
 
-### [Minsk](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast|Minsk,Oblast]] 
 
-### [Minsk.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast.public|Minsk,Oblast.public]] 
 
-### [Minsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast.internal|Minsk,Oblast.internal]] 
 
-### [Minsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast.protect|Minsk,Oblast.protect]] 
 
-### [Minsk.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast.private|Minsk,Oblast.private]] 
 
-### [Minsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast.personal|Minsk,Oblast.personal]] 
 
-### [Minsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast.secret|Minsk,Oblast.secret]] 
 

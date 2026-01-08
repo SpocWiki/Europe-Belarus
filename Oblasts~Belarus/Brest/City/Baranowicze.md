@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29015
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 26
+dv_has_place_latitude: 53.13
+dv_name: Baranowicze
+dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::26] 
-[has_place_latitude::53.13] 
-[name::Baranowicze] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Baranowicze](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Baranowicze.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Baranowicze|Baranowicze]] 
 
-### [Baranowicze.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Baranowicze.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Baranowicze.public|Baranowicze.public]] 
 
-### [Baranowicze.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Baranowicze.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Baranowicze.internal|Baranowicze.internal]] 
 
-### [Baranowicze.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Baranowicze.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Baranowicze.protect|Baranowicze.protect]] 
 
-### [Baranowicze.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Baranowicze.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Baranowicze.private|Baranowicze.private]] 
 
-### [Baranowicze.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Baranowicze.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Baranowicze.personal|Baranowicze.personal]] 
 
-### [Baranowicze.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Baranowicze.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Baranowicze.secret|Baranowicze.secret]] 
 

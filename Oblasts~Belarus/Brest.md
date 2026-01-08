@@ -40,17 +40,17 @@ markerFolder: ./Brest/
 
 ## Confidential Links & Embeds: 
 
-### [Brest](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest|Brest]] 
 
-### [Brest.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest.public|Brest.public]] 
 
-### [Brest.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest.internal|Brest.internal]] 
 
-### [Brest.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest.protect|Brest.protect]] 
 
-### [Brest.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest.private|Brest.private]] 
 
-### [Brest.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest.personal|Brest.personal]] 
 
-### [Brest.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest.secret|Brest.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33435
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 28.75
+dv_has_place_latitude: 55.48
+dv_name: Polozk=Polotsk
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::28.75] 
-[has_place_latitude::55.48] 
-[name::Polozk=Polotsk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Polozk=Polotsk](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Polozk=Polotsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Polozk=Polotsk|Polozk=Polotsk]] 
 
-### [Polozk=Polotsk.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Polozk=Polotsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Polozk=Polotsk.public|Polozk=Polotsk.public]] 
 
-### [Polozk=Polotsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Polozk=Polotsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Polozk=Polotsk.internal|Polozk=Polotsk.internal]] 
 
-### [Polozk=Polotsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Polozk=Polotsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Polozk=Polotsk.protect|Polozk=Polotsk.protect]] 
 
-### [Polozk=Polotsk.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Polozk=Polotsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Polozk=Polotsk.private|Polozk=Polotsk.private]] 
 
-### [Polozk=Polotsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Polozk=Polotsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Polozk=Polotsk.personal|Polozk=Polotsk.personal]] 
 
-### [Polozk=Polotsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Polozk=Polotsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Polozk=Polotsk.secret|Polozk=Polotsk.secret]] 
 

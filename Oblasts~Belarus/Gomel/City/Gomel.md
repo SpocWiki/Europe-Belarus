@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30502
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 31
+dv_has_place_latitude: 52.45
+dv_name: Gomel
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::31] 
-[has_place_latitude::52.45] 
-[name::Gomel] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gomel](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Gomel.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Gomel|Gomel]] 
 
-### [Gomel.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Gomel.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Gomel.public|Gomel.public]] 
 
-### [Gomel.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Gomel.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Gomel.internal|Gomel.internal]] 
 
-### [Gomel.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Gomel.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Gomel.protect|Gomel.protect]] 
 
-### [Gomel.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Gomel.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Gomel.private|Gomel.private]] 
 
-### [Gomel.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Gomel.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Gomel.personal|Gomel.personal]] 
 
-### [Gomel.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Gomel.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Gomel.secret|Gomel.secret]] 
 

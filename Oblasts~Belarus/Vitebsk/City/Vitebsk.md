@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35327
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 30.22
+dv_has_place_latitude: 55.2
+dv_name: Vitebsk
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::30.22] 
-[has_place_latitude::55.2] 
-[name::Vitebsk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vitebsk](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Vitebsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Vitebsk|Vitebsk]] 
 
-### [Vitebsk.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Vitebsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Vitebsk.public|Vitebsk.public]] 
 
-### [Vitebsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Vitebsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Vitebsk.internal|Vitebsk.internal]] 
 
-### [Vitebsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Vitebsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Vitebsk.protect|Vitebsk.protect]] 
 
-### [Vitebsk.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Vitebsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Vitebsk.private|Vitebsk.private]] 
 
-### [Vitebsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Vitebsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Vitebsk.personal|Vitebsk.personal]] 
 
-### [Vitebsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Vitebsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Vitebsk.secret|Vitebsk.secret]] 
 

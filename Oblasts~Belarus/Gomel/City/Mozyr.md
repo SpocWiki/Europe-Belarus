@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32616
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 29.27
+dv_has_place_latitude: 52.05
+dv_name: Mozyr
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::29.27] 
-[has_place_latitude::52.05] 
-[name::Mozyr] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mozyr](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Mozyr.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Mozyr|Mozyr]] 
 
-### [Mozyr.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Mozyr.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Mozyr.public|Mozyr.public]] 
 
-### [Mozyr.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Mozyr.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Mozyr.internal|Mozyr.internal]] 
 
-### [Mozyr.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Mozyr.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Mozyr.protect|Mozyr.protect]] 
 
-### [Mozyr.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Mozyr.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Mozyr.private|Mozyr.private]] 
 
-### [Mozyr.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Mozyr.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Mozyr.personal|Mozyr.personal]] 
 
-### [Mozyr.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Mozyr.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Gomel/City/Mozyr.secret|Mozyr.secret]] 
 

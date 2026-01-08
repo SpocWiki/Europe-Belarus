@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31950
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 28.68
+dv_has_place_latitude: 54.87
+dv_name: Lepel
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::28.68] 
-[has_place_latitude::54.87] 
-[name::Lepel] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lepel](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Lepel.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Lepel|Lepel]] 
 
-### [Lepel.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Lepel.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Lepel.public|Lepel.public]] 
 
-### [Lepel.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Lepel.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Lepel.internal|Lepel.internal]] 
 
-### [Lepel.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Lepel.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Lepel.protect|Lepel.protect]] 
 
-### [Lepel.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Lepel.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Lepel.private|Lepel.private]] 
 
-### [Lepel.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Lepel.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Lepel.personal|Lepel.personal]] 
 
-### [Lepel.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Lepel.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk/City/Lepel.secret|Lepel.secret]] 
 

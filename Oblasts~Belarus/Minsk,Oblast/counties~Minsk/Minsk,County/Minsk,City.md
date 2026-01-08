@@ -21,16 +21,19 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Minsk,2280|WD~Minsk,2280]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Minsk,2280|WD~Minsk,2280]]"
 ---
 
 # [[Minsk,City]]
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Minsk,2280|WD~Minsk,2280]] 
+is_same_as = `=this.dv_is_same_as`
 
 ```leaflet
 id: City_of_Minsk
@@ -67,19 +70,20 @@ defaultZoom: 11
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Minsk)
 
+
 ## Confidential Links & Embeds: 
 
-### [City_of_Minsk](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/City_of_Minsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Minsk,County/Minsk,City|Minsk,City]] 
 
-### [City_of_Minsk.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/City_of_Minsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Minsk,County/Minsk,City.public|Minsk,City.public]] 
 
-### [City_of_Minsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/City_of_Minsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Minsk,County/Minsk,City.internal|Minsk,City.internal]] 
 
-### [City_of_Minsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/City_of_Minsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Minsk,County/Minsk,City.protect|Minsk,City.protect]] 
 
-### [City_of_Minsk.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/City_of_Minsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Minsk,County/Minsk,City.private|Minsk,City.private]] 
 
-### [City_of_Minsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/City_of_Minsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Minsk,County/Minsk,City.personal|Minsk,City.personal]] 
 
-### [City_of_Minsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/City_of_Minsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Minsk,County/Minsk,City.secret|Minsk,City.secret]] 
 

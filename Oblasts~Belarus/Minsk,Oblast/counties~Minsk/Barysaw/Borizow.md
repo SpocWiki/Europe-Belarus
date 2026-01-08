@@ -14,17 +14,22 @@ tags:
 SpocWebEntityId: 29281
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 28.52
+dv_has_place_latitude: 54.25
+dv_name: Borizow
+dv_Country: "[[../../../../../Russia]]"
 ---
 
 # [[Borizow]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::28.52] 
-[has_place_latitude::54.25] 
-[name::Borizow] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -42,17 +47,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Borizow](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Borizow.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Barysaw/Borizow|Borizow]] 
 
-### [Borizow.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Borizow.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Barysaw/Borizow.public|Borizow.public]] 
 
-### [Borizow.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Borizow.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Barysaw/Borizow.internal|Borizow.internal]] 
 
-### [Borizow.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Borizow.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Barysaw/Borizow.protect|Borizow.protect]] 
 
-### [Borizow.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Borizow.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Barysaw/Borizow.private|Borizow.private]] 
 
-### [Borizow.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Borizow.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Barysaw/Borizow.personal|Borizow.personal]] 
 
-### [Borizow.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk/City/Borizow.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Barysaw/Borizow.secret|Borizow.secret]] 
 

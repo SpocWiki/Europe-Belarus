@@ -40,17 +40,17 @@ markerFolder: ./Vitebsk/
 
 ## Confidential Links & Embeds: 
 
-### [Vitebsk](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk|Vitebsk]] 
 
-### [Vitebsk.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk.public|Vitebsk.public]] 
 
-### [Vitebsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk.internal|Vitebsk.internal]] 
 
-### [Vitebsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk.protect|Vitebsk.protect]] 
 
-### [Vitebsk.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk.private|Vitebsk.private]] 
 
-### [Vitebsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk.personal|Vitebsk.personal]] 
 
-### [Vitebsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Vitebsk.secret|Vitebsk.secret]] 
 

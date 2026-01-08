@@ -14,17 +14,22 @@ tags:
 SpocWebEntityId: 32498
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 27.57
+dv_has_place_latitude: 53.9
+dv_name: Minsk
+dv_Country: "[[../../../../Belarus]]"
 ---
 
 # [[Minsk,County]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::27.57] 
-[has_place_latitude::53.9] 
-[name::Minsk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Belarus]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -46,19 +51,21 @@ maxZoom: 18
 > Minsk district (Belarusian: Мінскі раён; Russian: Минский район) is a district (raion) of Belarus in Minsk region. The administrative center is the capital Minsk, which is administratively separated from the district and region. As of 2024, it has a population of 274,990. The most populous town in the district is Zaslawye.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Minsk%20district) 
+
+
 ## Confidential Links & Embeds: 
 
-### [Minsk](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Minsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Minsk,County|Minsk,County]] 
 
-### [Minsk.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Minsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Minsk,County.public|Minsk,County.public]] 
 
-### [Minsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Minsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Minsk,County.internal|Minsk,County.internal]] 
 
-### [Minsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Minsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Minsk,County.protect|Minsk,County.protect]] 
 
-### [Minsk.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Minsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Minsk,County.private|Minsk,County.private]] 
 
-### [Minsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Minsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Minsk,County.personal|Minsk,County.personal]] 
 
-### [Minsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Minsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Minsk,County.secret|Minsk,County.secret]] 
 

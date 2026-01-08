@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29239
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 29.23
+dv_has_place_latitude: 53.15
+dv_name: Bobruysk
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::29.23] 
-[has_place_latitude::53.15] 
-[name::Bobruysk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bobruysk](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Bobruysk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Bobruysk|Bobruysk]] 
 
-### [Bobruysk.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Bobruysk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Bobruysk.public|Bobruysk.public]] 
 
-### [Bobruysk.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Bobruysk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Bobruysk.internal|Bobruysk.internal]] 
 
-### [Bobruysk.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Bobruysk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Bobruysk.protect|Bobruysk.protect]] 
 
-### [Bobruysk.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Bobruysk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Bobruysk.private|Bobruysk.private]] 
 
-### [Bobruysk.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Bobruysk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Bobruysk.personal|Bobruysk.personal]] 
 
-### [Bobruysk.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Bobruysk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Mogilev/City/Bobruysk.secret|Bobruysk.secret]] 
 

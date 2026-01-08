@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31986
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.27
+dv_has_place_latitude: 53.88
+dv_name: Lida
+dv_Country: "[[../../../../Poland]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.27] 
-[has_place_latitude::53.88] 
-[name::Lida] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Poland]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lida](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Lida.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Lida|Lida]] 
 
-### [Lida.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Lida.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Lida.public|Lida.public]] 
 
-### [Lida.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Lida.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Lida.internal|Lida.internal]] 
 
-### [Lida.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Lida.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Lida.protect|Lida.protect]] 
 
-### [Lida.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Lida.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Lida.private|Lida.private]] 
 
-### [Lida.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Lida.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Lida.personal|Lida.personal]] 
 
-### [Lida.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Lida.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Grodno/City/Lida.secret|Lida.secret]] 
 

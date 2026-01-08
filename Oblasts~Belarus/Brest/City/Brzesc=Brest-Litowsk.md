@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29378
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 23.68
+dv_has_place_latitude: 52.1
+dv_name: Brzesc=Brest-Litowsk
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::23.68] 
-[has_place_latitude::52.1] 
-[name::Brzesc=Brest-Litowsk] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brzesc=Brest-Litowsk](/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Brzesc=Brest-Litowsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Brzesc=Brest-Litowsk|Brzesc=Brest-Litowsk]] 
 
-### [Brzesc=Brest-Litowsk.public](/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Brzesc=Brest-Litowsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Brzesc=Brest-Litowsk.public|Brzesc=Brest-Litowsk.public]] 
 
-### [Brzesc=Brest-Litowsk.internal](/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Brzesc=Brest-Litowsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Brzesc=Brest-Litowsk.internal|Brzesc=Brest-Litowsk.internal]] 
 
-### [Brzesc=Brest-Litowsk.protect](/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Brzesc=Brest-Litowsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Brzesc=Brest-Litowsk.protect|Brzesc=Brest-Litowsk.protect]] 
 
-### [Brzesc=Brest-Litowsk.private](/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Brzesc=Brest-Litowsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Brzesc=Brest-Litowsk.private|Brzesc=Brest-Litowsk.private]] 
 
-### [Brzesc=Brest-Litowsk.personal](/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Brzesc=Brest-Litowsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Brzesc=Brest-Litowsk.personal|Brzesc=Brest-Litowsk.personal]] 
 
-### [Brzesc=Brest-Litowsk.secret](/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Brzesc=Brest-Litowsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Belarus/Oblasts~Belarus/Brest/City/Brzesc=Brest-Litowsk.secret|Brzesc=Brest-Litowsk.secret]] 
 
