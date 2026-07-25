@@ -353,7 +353,7 @@ dv_UNTERM_Chinese_Formal: 白俄罗斯共和国
 dv_UNTERM_French_Formal: la République du Bélarus
 dv_UNTERM_Russian: Беларусь
 dv_UNTERM_Russian_Formal: Республика Беларусь
-dv_Region_Name: "[[../../Europe|Europe]]"
+dv_Region_Name: "[[../../../Europe|Europe]]"
 dv_Intermediate_Region_Name: "[[Belarus]]"
 dv_Sub-region_Name: "[[Eastern Europe]]"
 dv_Region: 150
@@ -378,7 +378,7 @@ dv_ISO2: BY
 dv_ISO3: BLR
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Belarus,184|WD~Belarus,184]]"
+    - "[[../../../../../WikiData/WD~Belarus,184|WD~Belarus,184]]"
     - "[[/_Standards/Earth/Continent/Europe/Europe~East/Belarus|Belarus]]"
     - "[[/_public/Earth/Continent/Europe/Europe~East/Belarus.public|Belarus.public]]"
     - "[[/_internal/Earth/Continent/Europe/Europe~East/Belarus.internal|Belarus.internal]]"
@@ -389,18 +389,18 @@ dv_is_:
 dv_has_name_de: Weißrussland
 dv_Area-Total: 207595
 dv_Area-Land: 0
-dv_has_place_continent: "[[../../Europe|Europe]]"
+dv_has_place_continent: "[[../../../Europe|Europe]]"
 dv_VehicleCode: BY
-dv_Capital: "[[Belarus/Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Minsk,County|Minsk,County]]"
+dv_Capital: "[[Oblasts~Belarus/Minsk,Oblast/counties~Minsk/Minsk,County|Minsk,County]]"
 dv_Alcohol-l: 15.1
 dv_Language-Id: 469
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 27.57
 dv_has_place_latitude: 53.9
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Belarus
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Belarus,184|WD~Belarus,184]]"
+  - "[[../../../../../WikiData/WD~Belarus,184|WD~Belarus,184]]"
   - "[[/_Standards/Earth/Continent/Europe/Europe~East/Belarus|Belarus]]"
   - "[[/_public/Earth/Continent/Europe/Europe~East/Belarus.public|Belarus.public]]"
   - "[[/_internal/Earth/Continent/Europe/Europe~East/Belarus.internal|Belarus.internal]]"
@@ -710,7 +710,7 @@ described_by_source:
   - "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
   - "[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
   - "[[/_Standards/WikiData/WD~TASS_Encyclopedia,63985075|WD~TASS_Encyclopedia,63985075]]"
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 Dewey_Decimal_Classification: 2--478
 different_from: "[[/_Standards/WikiData/WD~White_movement,104309|WD~White_movement,104309]]"
@@ -877,7 +877,7 @@ member_of:
   - "[[/_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]"
   - "[[/_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]"
   - "[[/_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]"
-  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[/_Standards/WikiData/WD~Non-Aligned_Movement,83201|WD~Non-Aligned_Movement,83201]]"
   - "[[/_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]"
   - "[[/_Standards/WikiData/WD~Union_State,166110|WD~Union_State,166110]]"
@@ -1062,7 +1062,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Belarus/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -1082,7 +1082,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Belarus_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1110,7 +1110,7 @@ Capital = `=this.dv_Capital`
 
 ![[Emblem_of_Belarus.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Belarus.mp3|Anthem-Belarus.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Belarus.mp3|Anthem-Belarus.mp3]]
 
 ![[Flag_of_Belarus.svg|350]]
 
